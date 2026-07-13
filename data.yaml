@@ -1,0 +1,6 @@
+path: dataset  # root of dataset
+train: images/train
+val: images/val
+
+nc: 2  # number of classes
+names: ['crop', 'weed']
